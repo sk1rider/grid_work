@@ -1,0 +1,36 @@
+.con{
+    display: grid;
+
+    grid-template-columns: auto auto auto auto ;
+
+
+}
+/* .g{
+    background-color: black;
+padding: 100px;
+    border: 1px solid rgb(245, 235, 235);
+    color: white;
+    height: 400px;
+
+
+
+} */
+.g{
+
+    z-index: 1;
+
+}
+.saim{
+    position: fixed;
+    background-color: black;
+    padding: 100px;
+        border: 1px solid rgb(245, 235, 235);
+        color: white;
+        height: 4000px;
+    
+}
+.k{
+    height: 900px;
+    background:linear-gradient(red yellow);
+    z-index: 300px;
+}
